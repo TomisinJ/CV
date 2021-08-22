@@ -1,77 +1,37 @@
-## Your Name
+## Tomisin
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an aspiring Software Developer currently enrolled in the Makers Academy Bootcamp. 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| Name                         | Description                                         | Tech/tools.   |
+| ---------------------------- | --------------------------------------------------- | ------------- |
+| **Fizzbuzz**                 | Practicing Test Driven Development.                 | RSpec, Ruby   |
+| **Student Directory**        | A Ruby script that manages a directory of students. | Ruby          |
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July '21 - current)
+- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
+- Ruby
+- RSpec
 
-#### Your University / College (start_date to end_date)
+#### Programming Courses (2020 - current)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Python for Everybody - University of Michigan
+- Introduction to Web Development - Code First:Girls
+- CS50 course
+- Technology Internship Experience - Bright Network
+- Responsive Web Design, JavaScript Algorithms and Data Structure Certifications - freeCodeCamp
 
-#### Any other qualifications
+#### The University of Manchester (2015 - 2018)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BSc (Hons) International Business, Finance and Economics
+-  Played for the Women’s Hockey Club and Campus League teams
+- ACS Society Sports Officer (Netball)
+- Media Society Cameraman
 
-## Hobbies
+#### Secondary School & Sixth Form
 
-Any cool stuff that makes you a super part of a software development team
+- A Levels: Mathematics, Psychology, Biology, Chemistry
+- Prefect, Class Sports Captain, Peer Listener
