@@ -34,4 +34,3 @@ I am an aspiring Software Developer currently enrolled in the Makers Academy Boo
 #### Secondary School & Sixth Form
 
 - A Levels: Mathematics, Psychology, Biology, Chemistry
-- Prefect, Class Sports Captain, Peer Listener
