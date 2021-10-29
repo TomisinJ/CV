@@ -1,18 +1,18 @@
 ## Tomisin
 
-I am an aspiring Software Developer currently enrolled in the Makers Academy Bootcamp. 
+I am an Junior Software Developer currently enrolled in the Makers Academy Bootcamp. 
 
 ## Projects
 
 | Name                         | Description                                         | Tech/tools.   |
 | ---------------------------- | --------------------------------------------------- | ------------- |
-| **Fizzbuzz**                 | Practicing Test Driven Development.                 | RSpec, Ruby   |
-| **Student Directory**        | A Ruby script that manages a directory of students. | Ruby          |
+| **Chitter**                  |                                                     |Ruby, SQL.     |
+| **AceBook**                  |                                                     | Ruby on Rails |
 
 ## Education
 
 #### Makers Academy (July '21 - current)
-- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
+- Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication.
 - Ruby
 - RSpec
 
@@ -20,7 +20,7 @@ I am an aspiring Software Developer currently enrolled in the Makers Academy Boo
 
 - Python for Everybody - University of Michigan
 - Introduction to Web Development - Code First:Girls
-- CS50 course
+- Harvard CS50
 - Technology Internship Experience - Bright Network
 - Responsive Web Design, JavaScript Algorithms and Data Structure Certifications - freeCodeCamp
 
@@ -28,9 +28,5 @@ I am an aspiring Software Developer currently enrolled in the Makers Academy Boo
 
 - BSc (Hons) International Business, Finance and Economics
 -  Played for the Women’s Hockey Club and Campus League teams
-- ACS Society Sports Officer (Netball)
-- Media Society Cameraman
+- Media Society
 
-#### Secondary School & Sixth Form
-
-- A Levels: Mathematics, Psychology, Biology, Chemistry
