@@ -1,6 +1,6 @@
 ## Tomisin
 
-I am an Junior Software Developer currently enrolled in the Makers Academy Bootcamp. 
+I am a Junior Software Developer currently enrolled in the Makers Academy Bootcamp. 
 
 ## Projects
 
