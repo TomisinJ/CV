@@ -1,6 +1,6 @@
 Junior Full Stack Software Developer
 
-🌱 I’m currently learning Express and React with API integration.
+I’m currently learning Express and React with API integration.
 
 Projects
 ----
