@@ -1,18 +1,34 @@
-Junior Full Stack Software Developer
+## Hello!
+
+Hello I'm Tomisin, a Junior Full Stack Software Engineer.
 
 Projects
 ----
 
-| **Project**            |                                       |               |
-| ---------------------- | ------------------------------------- | ------------- |
-| **Sneaker Seeker**     | A search engine for sneakers          |               |
-| **Chitter**            | Like Twitter, but Chitter             | Ruby, SQL     |
-| **AceBook**            | An app to connect with friends        | Ruby on Rails |
+| **Project**            |                                       |                                         |
+| ---------------------- | ------------------------------------- | ----------------------------------------|
+| **Sneaker Seeker**     | A search engine for sneakers          | Express, React, Node.js, React-Bootstrap|
+| **Chitter**            | Like Twitter, but Chitter             | Ruby, SQL                               |
+| **AceBook**            | An app to connect with friends        | Ruby on Rails                           |
 
 
 Skills & Languages
 ----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Work Experience
+----
+
+TV Researcher. 2020
+- Conducted extensive research into various subject matter aligned to specific criteria and presented information for pitches, decks and biographies
+- Sourced relevant media from archives on tight deadlines
+
+Social Media Manager. 2019 – 2020
+- Developed a new website (using Wix) with appropriate SEO and design
+- Strategically created original content for social media to organically increase engagement and grow presence online
+- Scheduled posts to coincide with current affairs and created content in-line with social trends and monitored analytics
+- Used Canon 5D and Panasonic Lumix G80 to capture content and edit using Photoshop and Adobe Premiere Pro
 
 Education
 ----
