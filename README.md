@@ -4,12 +4,11 @@ Hello I'm Tomisin, a Junior Full Stack Software Engineer.
 
 Projects
 ----
-
 | **Project**            |                                       |                                         |
 | ---------------------- | ------------------------------------- | ----------------------------------------|
-| **Sneaker Seeker**     | A search engine for sneakers          | Express, React, Node.js, React-Bootstrap|
-| **Chitter**            | Like Twitter, but Chitter             | Ruby, SQL                               |
-| **AceBook**            | An app to connect with friends        | Ruby on Rails                           |
+| **[Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo)**     | A search engine for sneakers          | Express, React, Node.js, React-Bootstrap|
+| **[AceBook](https://github.com/Jessocxz98/acebook-anti-social-media-inc)**            | An app to connect with friends        | Ruby on Rails, Bootstrap                |
+| **[Makersbnb](https://github.com/rhianeKobar/Makers_bnb)**          | A take on Airbnb                      | Ruby                                     |
 
 
 Skills & Languages
