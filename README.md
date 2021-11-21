@@ -30,6 +30,15 @@ Social Media Manager. 2019 – 2020
 - Scheduled posts to coincide with current affairs and created content in-line with social trends and monitored analytics
 - Used Canon 5D and Panasonic Lumix G80 to capture content and edit using Photoshop and Adobe Premiere Pro
 
+Production Assistant. 2019 - 2020
+- Runner on set and in office for an award-winning production team creating a variety of branded, digital and entertainment content
+- Delegated responsibilities amongst runners and flexibly filled any role required across departments
+
+Fundraising and Marketing Assistant. 2019
+- Researched fundraising opportunities during the relaunch of the art gallery
+- Used a CMS to manage the website and wrote the weekly newsletter
+- Filmed interviews and created promotional videos using Adobe Premiere Pro
+
 Education
 ----
 
