@@ -1,4 +1,4 @@
-# Hello! I'm Tomisin, welcome to my GitHub.
+# Hello! I'm Tomisin.
 
 [Projects](#Projects) • [Skills](#Skills) • [Work Experience](#Work-Experience) • [Education](#Education) • [Hobbies and Interests](#Hobbies-and-Interests)
 
