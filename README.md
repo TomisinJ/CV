@@ -99,6 +99,6 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 - The Network Talent Scheme
 
 ## Hobbies and Interests
-**Hockey** I play hockey for my local team on a weekly basis
-**Media** As a self-taught video editor, I enjoy creating fashion content
-**DIY** I like to work on various DIY projects, including making jewellery and upcycling clothes
+- **Hockey** I play hockey for my local team on a weekly basis
+- **Media** As a self-taught video editor, I enjoy creating fashion content
+- **DIY** I like to work on various DIY projects, including making jewellery and upcycling clothes
